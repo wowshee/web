@@ -39,6 +39,6 @@ test 중
    
    [구글](https://google.com, "검색")
    
-   ![dog](.img/kevin-tosh-4zGy_ZkD-iA-unsplash/jpg)
+   ![dog](.img/kevin-tosh-4zGy_ZkD-iA-unsplash.jpg)
    
    ![이미지 연습](http://wowsh.dothome.co.kr/img/d.jpg)
