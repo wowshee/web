@@ -39,4 +39,4 @@ test 중
    
    [구글](https://google.com, "검색")
    
-   ![이미지 연습](http://wowshee.dothome.co.kr/img/d.jpg)
+   ![이미지 연습](http://wowsh.dothome.co.kr/img/d.jpg)
