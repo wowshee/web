@@ -8,7 +8,9 @@ test 중
 
 * ul
 
-- li __강조표시__ _기울임_ ___굵은 기움임___ ~~취소~~
+- li 
+
+- __강조표시__ _기울임_ ___굵은 기움임___ ~~취소~~
 
   + pull
   
@@ -18,3 +20,23 @@ test 중
   >> 또 다른 인용문은 "이렇게"
   
   소스코드 입력시에는 `funtion add(x, y) { return x+y; }` 처럼 사용합니다.
+  
+  여러 줄의 소스 코드 삽입
+  
+   ``` javascript
+   <script>
+   let now = new Date();
+   let display = new.toLocaleTimeString();
+   document.write("현재 시각은 " + display);
+   </scropt>
+   ```
+   
+   코드 입력 끝!
+   
+   <http://wowsh.dothome.co.kr/>
+   
+   [셩's 홈페이지](http://wowsh.dothome.co.kr/)
+   
+   [구글](https://google.com, "검색")
+   
+   ![이미지 연습](http://wowshee.dothome.co.kr/images/d.jpg)
